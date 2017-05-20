@@ -1,5 +1,5 @@
 runtime bundle/vim-pathogen/autoload/pathogen.vim
-execute pathogen#infect()
+call pathogen#infect()
 
 "配色
 :colorscheme desert 
